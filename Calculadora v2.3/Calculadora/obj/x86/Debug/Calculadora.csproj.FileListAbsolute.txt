@@ -1,0 +1,29 @@
+C:\Users\Thiago.Torres\Desktop\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Thiago.Torres\Desktop\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Thiago.Torres\Desktop\Calculadora\Calculadora\obj\x86\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Thiago.Torres\Desktop\Calculadora\Calculadora\obj\x86\Debug\Calculadora.csproj.GenerateResource.Cache
+C:\Users\Thiago.Torres\Desktop\Calculadora\Calculadora\obj\x86\Debug\Calculadora.exe
+C:\Users\Thiago.Torres\Desktop\Calculadora\Calculadora\obj\x86\Debug\Calculadora.pdb
+C:\Users\Thiago.Torres\Desktop\Calculadora\Calculadora\obj\x86\Debug\Calculadora.Form1.resources
+C:\Users\ThiagoZx\Desktop\Calculadora\Calculadora\obj\x86\Debug\Calculadora.exe
+C:\Users\ThiagoZx\Desktop\Calculadora\Calculadora\obj\x86\Debug\Calculadora.pdb
+C:\Users\ThiagoZx\Desktop\Calculadora\Calculadora\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ThiagoZx\Desktop\Calculadora\Calculadora\obj\x86\Debug\Calculadora.Form1.resources
+C:\Users\ThiagoZx\Desktop\Calculadora\Calculadora\obj\x86\Debug\Calculadora.Properties.Resources.resources
+C:\Users\ThiagoZx\Desktop\Calculadora\Calculadora\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ThiagoZx\Desktop\Calculadora\Calculadora\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ThiagoZx\Desktop\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\ThiagoZx\Desktop\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\ThiagoZx\Desktop\Calculadora v2.3\Calculadora\obj\x86\Debug\Calculadora.exe
+C:\Users\ThiagoZx\Desktop\Calculadora v2.3\Calculadora\obj\x86\Debug\Calculadora.pdb
+C:\Users\ThiagoZx\Desktop\Calculadora v2.3\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\ThiagoZx\Desktop\Calculadora v2.3\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\ThiagoZx\Desktop\Calculadora v2.3\Calculadora\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ThiagoZx\Desktop\Calculadora v2.3\Calculadora\obj\x86\Debug\Calculadora.Form1.resources
+C:\Users\ThiagoZx\Desktop\Calculadora v2.3\Calculadora\obj\x86\Debug\Calculadora.Properties.Resources.resources
+C:\Users\ThiagoZx\Desktop\Calculadora v2.3\Calculadora\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ThiagoZx\Desktop\Calculadora v2.3\Calculadora\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Calculadora v2.3\Calculadora\obj\x86\Debug\Calculadora.exe
+F:\Calculadora v2.3\Calculadora\obj\x86\Debug\Calculadora.pdb
+C:\Users\Thiago.Torres\Desktop\Calculadora v2.3\Calculadora\obj\x86\Debug\Calculadora.exe
+C:\Users\Thiago.Torres\Desktop\Calculadora v2.3\Calculadora\obj\x86\Debug\Calculadora.pdb
