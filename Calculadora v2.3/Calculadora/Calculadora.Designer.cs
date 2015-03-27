@@ -57,6 +57,12 @@
             this.button1 = new System.Windows.Forms.Button();
             this.result = new System.Windows.Forms.Label();
             this.Equation = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
+            this.label4 = new System.Windows.Forms.Label();
+            this.button28 = new System.Windows.Forms.Button();
+            this.button25 = new System.Windows.Forms.Button();
+            this.button29 = new System.Windows.Forms.Button();
+            this.button30 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // button21
@@ -405,11 +411,79 @@
             this.Equation.Size = new System.Drawing.Size(261, 22);
             this.Equation.TabIndex = 59;
             // 
+            // label3
+            // 
+            this.label3.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.Location = new System.Drawing.Point(16, 380);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(108, 26);
+            this.label3.TabIndex = 60;
+            this.label3.Text = "Fatorial";
+            this.label3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // label4
+            // 
+            this.label4.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label4.Location = new System.Drawing.Point(187, 380);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(109, 26);
+            this.label4.TabIndex = 61;
+            this.label4.Text = "Fibonacci";
+            this.label4.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // button28
+            // 
+            this.button28.Location = new System.Drawing.Point(187, 409);
+            this.button28.Name = "button28";
+            this.button28.Size = new System.Drawing.Size(108, 22);
+            this.button28.TabIndex = 63;
+            this.button28.Text = "Iterativo";
+            this.button28.UseVisualStyleBackColor = true;
+            this.button28.Click += new System.EventHandler(this.Fibonacci_iterativo);
+            // 
+            // button25
+            // 
+            this.button25.Location = new System.Drawing.Point(187, 433);
+            this.button25.Name = "button25";
+            this.button25.Size = new System.Drawing.Size(108, 22);
+            this.button25.TabIndex = 64;
+            this.button25.Text = "Recursivo";
+            this.button25.UseVisualStyleBackColor = true;
+            this.button25.Click += new System.EventHandler(this.Fibonacci_recursivo);
+            // 
+            // button29
+            // 
+            this.button29.Location = new System.Drawing.Point(16, 409);
+            this.button29.Name = "button29";
+            this.button29.Size = new System.Drawing.Size(108, 22);
+            this.button29.TabIndex = 65;
+            this.button29.Text = "Iterativo";
+            this.button29.UseVisualStyleBackColor = true;
+            this.button29.Click += new System.EventHandler(this.Fatorial_iterativo);
+            // 
+            // button30
+            // 
+            this.button30.Location = new System.Drawing.Point(16, 433);
+            this.button30.Name = "button30";
+            this.button30.Size = new System.Drawing.Size(108, 22);
+            this.button30.TabIndex = 66;
+            this.button30.Text = "Recursivo";
+            this.button30.UseVisualStyleBackColor = true;
+            this.button30.Click += new System.EventHandler(this.Fatorial_recursivo);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(308, 375);
+            this.ClientSize = new System.Drawing.Size(308, 459);
+            this.Controls.Add(this.button30);
+            this.Controls.Add(this.button29);
+            this.Controls.Add(this.button25);
+            this.Controls.Add(this.button28);
+            this.Controls.Add(this.label4);
+            this.Controls.Add(this.label3);
             this.Controls.Add(this.Equation);
             this.Controls.Add(this.result);
             this.Controls.Add(this.button21);
@@ -439,6 +513,7 @@
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
+            this.ForeColor = System.Drawing.SystemColors.ControlText;
             this.Name = "Form1";
             this.Text = "Calculadora";
             this.ResumeLayout(false);
@@ -476,6 +551,12 @@
         private System.Windows.Forms.Button button1;
         public System.Windows.Forms.Label result;
         private System.Windows.Forms.Label Equation;
+        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.Button button28;
+        private System.Windows.Forms.Button button25;
+        private System.Windows.Forms.Button button29;
+        private System.Windows.Forms.Button button30;
     }
 }
 

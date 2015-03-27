@@ -173,6 +173,23 @@ namespace Calculadora
             }
         }
 
+        private void Fatorial_iterativo(object sender, EventArgs e)
+        {
+            result.Text = calc.Fatorial_iterativo(Convert.ToDouble(result.Text));
+        }
 
+        private void Fatorial_recursivo(object sender, EventArgs e)
+        {
+            result.Text = calc.Fatorial_recursivo(Convert.ToDouble(result.Text), 1);
+        }
+
+        private void Fibonacci_iterativo(object sender, EventArgs e)
+        {
+            result.Text = calc.Fibonacci_iterativo(Convert.ToInt32(result.Text));
+        }
+
+        private void Fibonacci_recursivo(object sender, EventArgs e) {
+            result.Text = calc.Fibonacci_recursivo(Convert.ToDouble(result.Text), 0, 1);
+        }
     }
 }
